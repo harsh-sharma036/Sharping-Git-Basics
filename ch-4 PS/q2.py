@@ -1,0 +1,10 @@
+# program to display the marks of 6 students
+l1 = []
+
+for i in range(1, 7):
+    x = int(input(f"enter the marks of student{1}: "))
+    l1.append(x)
+
+print(l1)
+l1.sort()
+print(l1)
