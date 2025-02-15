@@ -8,3 +8,4 @@ for i in range(1, 7):
 print(l1)
 l1.sort()
 print(l1)
+print(len(l1))
