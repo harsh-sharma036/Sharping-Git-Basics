@@ -8,3 +8,4 @@ else:
     print("False")
 
 print("is" in a)
+print("good" in a)
