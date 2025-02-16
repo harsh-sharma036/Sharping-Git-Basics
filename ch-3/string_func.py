@@ -9,6 +9,6 @@ print(len(a))
 b = a.capitalize()
 print(b)
 
-print(a.find("h"))
+print(a.find("h")) # returns the first index where 'h' is there
 print(a.replace("har", "shr")) # ye repalcement mutable nhi hota h, vese bhi python m string immutable hoti h 
 print(a)
