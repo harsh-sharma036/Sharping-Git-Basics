@@ -9,3 +9,4 @@ else:
 
 print("is" in a)
 print("good" in a)
+print("checking my doubt")
